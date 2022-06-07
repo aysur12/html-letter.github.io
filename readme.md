@@ -3,7 +3,7 @@
 Ссылка на проект: https://aysur12.github.io/html-letter.github.io/
 
 Макет дизайна письма:
-[изображение](./email-template-psd.jpg)
+[изображение](https://github.com/aysur12/html-letter.github.io/blob/main/email-template-psd.png)
 
 Для верстки письма использовалась табличная верстка, а также Inline-стили, то есть применялись непосредственно к тегам 
 
